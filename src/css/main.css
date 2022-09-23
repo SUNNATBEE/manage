@@ -1,0 +1,36 @@
+/* cedarville-cursive-regular - latin */
+@font-face {
+    font-family: "Cedarville Cursive";
+    font-display: swap;
+    font-weight: 400;
+    src: url("../fonts/cedarville-cursive-v17-latin-regular.woff2") format("woff2"),
+         url("../fonts/cedarville-cursive-v17-latin-regular.woff") format("woff"); 
+  }
+
+@font-face {
+    font-family: "Be Vietnam Pro";
+    font-display: swap;
+    font-weight: 400;
+    src: url("../fonts/be-vietnam-pro-v10-latin-regular.woff2") format("woff2"),
+         url("../fonts/be-vietnam-pro-v10-latin-regular.woff") format("woff");
+  }
+  /* be-vietnam-pro-700 - latin */
+  @font-face {
+    font-family: "Be Vietnam Pro";
+    font-display: swap;
+    font-weight: 700;
+    src: url("../fonts/be-vietnam-pro-v10-latin-700.woff2") format("woff2"), 
+         url("../fonts/be-vietnam-pro-v10-latin-700.woff") format("woff"); 
+  }
+  /* be-vietnam-pro-800 - latin */
+  @font-face {
+    font-family: "Be Vietnam Pro";
+    font-display: swap;
+    font-weight: 800;
+    src: url("../fonts/be-vietnam-pro-v10-latin-800.woff2") format("woff2"), 
+         url("../fonts/be-vietnam-pro-v10-latin-800.woff") format("woff");
+  }
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
