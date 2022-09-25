@@ -45,9 +45,7 @@ img{
     color: #F3603C !important;
     font-size: 10px;
 }
-.slick-dots .button{
-   
-}
+
 @media (min-width: 320px){
     .site-main{
         background-position: calc(50% + 280px) -139px;
